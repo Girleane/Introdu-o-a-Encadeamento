@@ -1,2 +1,2 @@
-# Introdu-o-a-Encadeamento
+# Introducao a Encadeamento
 Introdução a encadeamento e pilhas LIFO.
